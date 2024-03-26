@@ -66,7 +66,7 @@ Pré-requisitos: Instalar ferramentas
 
 ```bash
 # Download dos arquivos
-APIsReqresin.zip
+ApiReqresIn.java
 pom.xml
 
 # Acessar um editor de texto como o Spring tool
