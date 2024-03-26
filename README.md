@@ -1,4 +1,4 @@
-# Automatizando limedrop
+# Automatizando APIs REQRESIN
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ViniciusODantas/teste-datum-api-reqresin/blob/main/LICENSE).
 
 # Sobre o projeto
